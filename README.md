@@ -1,0 +1,2 @@
+# Vocabulacry_Reciting
+使用anki背诵7500单词进度
