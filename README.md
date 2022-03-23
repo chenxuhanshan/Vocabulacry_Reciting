@@ -8,4 +8,5 @@
 
 ## 3月23日
 - 使用anki背单词第21天，已背诵新词1890左右。剩余5486个新词。
-![屏幕截图 2022-03-22 221916](https://user-images.githubusercontent.com/57445651/159695469-e8cdff4c-42ba-4889-b8de-21ef4218c5de.png)
+![屏幕截图 2022-03-23 200745](https://user-images.githubusercontent.com/57445651/159695662-096abaa9-9602-48ea-8c38-5a8cad87bc15.png)
+
