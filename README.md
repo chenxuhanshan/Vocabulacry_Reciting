@@ -31,3 +31,7 @@
 - 使用anki背单词第25天，已背诵新词2250左右。剩余5126个新词。
 ![屏幕截图 2022-03-27 230247](https://user-images.githubusercontent.com/57445651/160287760-04ebf14b-1e58-4ea6-bd29-7517eb1d4af2.png)
 
+
+## 3月28日
+- 使用anki背单词第26天，已背诵新词2360左右。剩余5036个新词。
+![屏幕截图 2022-03-28 233608](https://user-images.githubusercontent.com/57445651/160434979-eca27bd0-a783-4ec6-bb2f-c92b6dfa8648.png)
