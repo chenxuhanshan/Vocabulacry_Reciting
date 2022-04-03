@@ -63,3 +63,9 @@
 ## 4月2日
 - 使用anki背单词第31天，已背诵新词2810左右。剩余4546个新词。
 ![屏幕截图 2022-04-02 204656](https://user-images.githubusercontent.com/57445651/161384115-9a8cd9ff-0588-4c5e-9194-3a6a072ab9a1.png)
+
+
+
+## 4月3日
+- 使用anki背单词第32天，已背诵新词2900左右。剩余4456个新词。
+![屏幕截图 2022-04-03 160822](https://user-images.githubusercontent.com/57445651/161418514-934a810d-e678-49f9-b4e8-8aeabcbbc8fb.png)
