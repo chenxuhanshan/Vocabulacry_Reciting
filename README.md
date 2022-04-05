@@ -71,6 +71,11 @@
 ![屏幕截图 2022-04-03 160822](https://user-images.githubusercontent.com/57445651/161418514-934a810d-e678-49f9-b4e8-8aeabcbbc8fb.png)
 
 
-## 4月3日
-- 使用anki背单词第33天，已背诵新词2996左右。剩余4406个新词。
+## 4月4日
+- 使用anki背单词第33天，已背诵新词2990左右。剩余4406个新词。
 ![屏幕截图 2022-04-04 232950](https://user-images.githubusercontent.com/57445651/161579210-20fd7de8-75ef-4385-9c4a-78f542ef446f.png)
+
+
+## 4月5日
+- 使用anki背单词第34天，已背诵新词3060左右。剩余4316个新词。
+![屏幕截图 2022-04-05 225531](https://user-images.githubusercontent.com/57445651/161783771-855f2885-0c3a-4520-af97-e412caba8fd4.png)
